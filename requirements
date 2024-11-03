@@ -1,6 +1,0 @@
-streamlit==1.26.0
-pandas==1.5.3
-plotly==5.16.1
-pygwalker==0.1.4
-seaborn==0.12.2
-matplotlib==3.8.0
