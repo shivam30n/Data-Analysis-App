@@ -2,6 +2,7 @@
 📊 Data Analytics Portal
 
 Welcome to the Data Analytics Portal! This interactive Streamlit app empowers you to effortlessly explore, analyze, and visualize data. Simply upload your dataset and dive into analytics in a few clicks! 🚀
+https://data-analysis-app-vrawss8ulfwnqftcsphavn.streamlit.app/
 
 🎯 Features
 
